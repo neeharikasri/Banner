@@ -1,0 +1,115 @@
+body{
+    background-image: url("coffee.jpg");
+    background-size: cover;
+}
+.template{
+    height:720px;
+    width:570px;
+    border:2px solid black;
+    /* display:flex;
+    align-items: center;
+    justify-content: center; */
+    margin-left: 400px;
+    background-color: #deb887;
+    font-size: 16px;
+    font-family: sans-serif;
+    text-align: center;
+    padding:20px;
+}
+h1{
+    font-size:40px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 5px solid brown;
+}
+hr{
+    background-color: #a52a2a;
+    margin:20px;
+    height:4px;
+    width:420px;
+    margin-left: 70px;
+    margin-bottom: 5px;
+}
+h2{
+    font-size:30px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 5px solid brown;
+    margin:25 0 25 0;
+}
+.logo i{
+    height: 44px;
+    width:51px;
+    font-size: 25px;
+}
+
+.one{
+    height: 21px;
+    width: 315px;
+    /* border: 2px solid black; */
+    text-align: left;
+    margin-left: 20px;
+    font-size: 16px;
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+.two{
+    height: 21px;
+    width: 315px;
+    /* border: 2px solid black; */
+    text-align: left;
+    margin-left: 20px;
+    font-size: 16px;
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+.three{
+    height: 21px;
+    width: 315px;
+    /* border: 2px solid black; */
+    text-align: left;
+    margin-left: 20px;
+    font-size: 16px;
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+.four{
+    height: 21px;
+    width: 315px;
+    /* border: 2px solid black; */
+    text-align: left;
+    margin-left: 20px;
+    font-size: 16px;
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+.five{
+    height: 21px;
+    width: 315px;
+    /* border: 2px solid black; */
+    text-align: left;
+    margin-left: 20px;
+    font-size: 16px;
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+.coffee{
+    display: flex;
+}
+.span2{
+    margin-left: 100px;
+
+}
+.desserts{
+    display: flex;
+}
+.foo{
+    color:black;
+    margin-bottom: 5px;
+}
+footer{
+    font-size: 15px;
+}
+.foo:hover{
+    color:brown;
+}
